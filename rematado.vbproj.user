@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <VisualBasic LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "C:\ASYS 5.0 Showroom Jan 10-2013\ASYS 5.0 SHOWROOM 01-10-13\source codes rematado\bin\;C:\Documents and Settings\REMSDB\Desktop\FINAL ASYS 5.1 Synergy Showroom\ASYS 5.0 SHOWROOM 01-10-13\source codes rematado\bin\;D:\Back_up_ASYS 5.1  SHOWROOM may 27, 2013\source codes rematado\bin\;C:\ASYS 5.1  SHOWROOM\source codes rematado\bin\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ShowAllFiles"
+            ProjectTrust = "0"
+        />
+    </VisualBasic>
+</VisualStudioProject>
+
